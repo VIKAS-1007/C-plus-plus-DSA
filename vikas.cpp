@@ -1,7 +1,8 @@
-#include<iostream>
+#include <iostream>
 using namespace std;
-int main(){
-  //STAR PATTERNS 
+int main()
+{
+  // STAR PATTERNS
 
   // solid rectangle
 
@@ -12,8 +13,7 @@ int main(){
   //   cout<<endl;
   // }
 
-
-//hollow rectangle
+  // hollow rectangle
 
   // int r,c;
   // cout<<"enter the no.of rows"<<endl;
@@ -39,9 +39,7 @@ int main(){
   //   cout<<endl;
   // }
 
-
-
-// meri approach for hollow rectangle
+  // meri approach for hollow rectangle
 
   //   int r;
   // cout<<"enter the no.of rows"<<endl;
@@ -57,7 +55,6 @@ int main(){
   //   }
   //   cout<<endl;
   // }
-
 
   // another approach for hollow rectangle
 
@@ -81,6 +78,4 @@ int main(){
   //   }
   //   cout<<endl;
   // }
-
-
 }
